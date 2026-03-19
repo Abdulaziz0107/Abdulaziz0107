@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abdulaziz0107
+- 👋 Hi, I’m Stellar
 - 👀 I’m interested in working on a laptop
 - 🌱 I’m currently learning IT and English
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/his/him
 - ⚡ Fun fact: ...
 
 <!---
